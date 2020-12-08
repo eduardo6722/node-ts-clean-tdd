@@ -1,0 +1,23 @@
+{
+  "name": "node-ts-clean-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardo6722/node-ts-clean-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardo6722/node-ts-clean-tdd/issues"
+  },
+  "homepage": "https://github.com/eduardo6722/node-ts-clean-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
+}
