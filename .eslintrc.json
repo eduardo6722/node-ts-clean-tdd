@@ -20,6 +20,8 @@
     "class-methods-use-this": "off",
     "camelcase": "off",
     "@typescript-eslint/camelcase": "off",
+    "no-restricted-syntax": "off",
+    "@typescript-eslint/no-explicit-any": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
